@@ -1,8 +1,8 @@
-# Awesome Polls
+# ArtsInThePark
 
-Awesome Polls is a sample Node.js app that implements Auth0 authentication. Read the full tutorial [here]().
+ArtsInThePark is a Node.js app that implements Auth0 authentication. Read the full article [here]().
 
-## Running the Sample
+## Running the ArtsInThePark
 
 Install the dependencies.
 
